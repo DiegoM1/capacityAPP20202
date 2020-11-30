@@ -1,0 +1,587 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 51;
+	objects = {
+
+/* Begin PBXBuildFile section */
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> parent of cc00359... added new verification with buttons
+		791822A9255064B9008ADE62 /* MapViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 791822A8255064B9008ADE62 /* MapViewController.swift */; };
+		791823722551E716008ADE62 /* DetailViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 791823712551E715008ADE62 /* DetailViewController.swift */; };
+		791823CB255B7053008ADE62 /* ResponseGooglePlace.swift in Sources */ = {isa = PBXBuildFile; fileRef = 791823CA255B7052008ADE62 /* ResponseGooglePlace.swift */; };
+		791823D1255B71DB008ADE62 /* GoogleClientRequest.swift in Sources */ = {isa = PBXBuildFile; fileRef = 791823D0255B71DB008ADE62 /* GoogleClientRequest.swift */; };
+		7949A7E1252BF45100366D5E /* Restaurant.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7949A7E0252BF45100366D5E /* Restaurant.swift */; };
+<<<<<<< HEAD
+=======
+>>>>>>> parent of f8794b2... added indicator, background image, deleted function to call address and rating
+=======
+>>>>>>> parent of f8794b2... added indicator, background image, deleted function to call address and rating
+=======
+>>>>>>> parent of cc00359... added new verification with buttons
+		79D8337D252AF12C00D19A0E /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 79D8337C252AF12C00D19A0E /* AppDelegate.swift */; };
+		79D8337F252AF12C00D19A0E /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 79D8337E252AF12C00D19A0E /* SceneDelegate.swift */; };
+		79D83381252AF12C00D19A0E /* SignInViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 79D83380252AF12C00D19A0E /* SignInViewController.swift */; };
+		79D83384252AF12C00D19A0E /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 79D83382252AF12C00D19A0E /* Main.storyboard */; };
+		79D83387252AF12C00D19A0E /* CapacityApp.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 79D83385252AF12C00D19A0E /* CapacityApp.xcdatamodeld */; };
+		79D83389252AF13400D19A0E /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 79D83388252AF13400D19A0E /* Assets.xcassets */; };
+		79D8338C252AF13400D19A0E /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 79D8338A252AF13400D19A0E /* LaunchScreen.storyboard */; };
+		79D83395252B084500D19A0E /* CreateAccountModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 79D83394252B084500D19A0E /* CreateAccountModel.swift */; };
+		79D833B2252B7F5F00D19A0E /* GoogleService-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 79D833B1252B7F5F00D19A0E /* GoogleService-Info.plist */; };
+		79D833CF252B8E7A00D19A0E /* CreateAccountViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 79D833CE252B8E7A00D19A0E /* CreateAccountViewController.swift */; };
+		79D833F3252BAE8E00D19A0E /* SignInModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 79D833F2252BAE8E00D19A0E /* SignInModel.swift */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> parent of cc00359... added new verification with buttons
+		1DC44F561ECAE35F54EE856B /* Pods-CapacityApp.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-CapacityApp.release.xcconfig"; path = "Target Support Files/Pods-CapacityApp/Pods-CapacityApp.release.xcconfig"; sourceTree = "<group>"; };
+		3FE93702E89211930DB1E636 /* Pods-CapacityApp.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-CapacityApp.debug.xcconfig"; path = "Target Support Files/Pods-CapacityApp/Pods-CapacityApp.debug.xcconfig"; sourceTree = "<group>"; };
+		791822A8255064B9008ADE62 /* MapViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MapViewController.swift; sourceTree = "<group>"; };
+		791823712551E715008ADE62 /* DetailViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailViewController.swift; sourceTree = "<group>"; };
+		791823CA255B7052008ADE62 /* ResponseGooglePlace.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ResponseGooglePlace.swift; sourceTree = "<group>"; };
+		791823D0255B71DB008ADE62 /* GoogleClientRequest.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GoogleClientRequest.swift; sourceTree = "<group>"; };
+		7949A7E0252BF45100366D5E /* Restaurant.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Restaurant.swift; sourceTree = "<group>"; };
+<<<<<<< HEAD
+=======
+>>>>>>> parent of f8794b2... added indicator, background image, deleted function to call address and rating
+=======
+>>>>>>> parent of f8794b2... added indicator, background image, deleted function to call address and rating
+=======
+>>>>>>> parent of cc00359... added new verification with buttons
+		79D83379252AF12C00D19A0E /* CapacityApp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = CapacityApp.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		79D8337C252AF12C00D19A0E /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		79D8337E252AF12C00D19A0E /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
+		79D83380252AF12C00D19A0E /* SignInViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SignInViewController.swift; sourceTree = "<group>"; };
+		79D83383252AF12C00D19A0E /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		79D83386252AF12C00D19A0E /* CapacityApp.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = CapacityApp.xcdatamodel; sourceTree = "<group>"; };
+		79D83388252AF13400D19A0E /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		79D8338B252AF13400D19A0E /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		79D8338D252AF13400D19A0E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		79D83394252B084500D19A0E /* CreateAccountModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CreateAccountModel.swift; sourceTree = "<group>"; };
+		79D833B1252B7F5F00D19A0E /* GoogleService-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "GoogleService-Info.plist"; sourceTree = "<group>"; };
+		79D833CE252B8E7A00D19A0E /* CreateAccountViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CreateAccountViewController.swift; sourceTree = "<group>"; };
+		79D833F2252BAE8E00D19A0E /* SignInModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SignInModel.swift; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		79D83376252AF12B00D19A0E /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		4647296E261BF195359C47CB /* Pods */ = {
+			isa = PBXGroup;
+			children = (
+				3FE93702E89211930DB1E636 /* Pods-CapacityApp.debug.xcconfig */,
+				1DC44F561ECAE35F54EE856B /* Pods-CapacityApp.release.xcconfig */,
+			);
+			path = Pods;
+			sourceTree = "<group>";
+		};
+		791822A7255063A5008ADE62 /* MapView */ = {
+			isa = PBXGroup;
+			children = (
+				791822A8255064B9008ADE62 /* MapViewController.swift */,
+			);
+			path = MapView;
+			sourceTree = "<group>";
+		};
+		791823702551E6EC008ADE62 /* DetailView */ = {
+			isa = PBXGroup;
+			children = (
+				791823712551E715008ADE62 /* DetailViewController.swift */,
+			);
+			path = DetailView;
+			sourceTree = "<group>";
+		};
+		791823AD255B5244008ADE62 /* DataProvider */ = {
+			isa = PBXGroup;
+			children = (
+				791823D0255B71DB008ADE62 /* GoogleClientRequest.swift */,
+			);
+			path = DataProvider;
+			sourceTree = "<group>";
+		};
+		794206BB252BF1F60036051A /* Scenes */ = {
+			isa = PBXGroup;
+			children = (
+				794206BC252BF2030036051A /* Authentication */,
+			);
+			path = Scenes;
+			sourceTree = "<group>";
+		};
+		794206BC252BF2030036051A /* Authentication */ = {
+			isa = PBXGroup;
+			children = (
+				791823702551E6EC008ADE62 /* DetailView */,
+				791822A7255063A5008ADE62 /* MapView */,
+				794206BE252BF2280036051A /* CreateAccount */,
+				794206BD252BF20D0036051A /* SignIn */,
+			);
+			path = Authentication;
+			sourceTree = "<group>";
+		};
+		794206BD252BF20D0036051A /* SignIn */ = {
+			isa = PBXGroup;
+			children = (
+				79D83380252AF12C00D19A0E /* SignInViewController.swift */,
+				79D833F2252BAE8E00D19A0E /* SignInModel.swift */,
+			);
+			path = SignIn;
+			sourceTree = "<group>";
+		};
+		794206BE252BF2280036051A /* CreateAccount */ = {
+			isa = PBXGroup;
+			children = (
+				79D83394252B084500D19A0E /* CreateAccountModel.swift */,
+				79D833CE252B8E7A00D19A0E /* CreateAccountViewController.swift */,
+			);
+			path = CreateAccount;
+			sourceTree = "<group>";
+		};
+		7949A7DF252BF3E800366D5E /* Entities */ = {
+			isa = PBXGroup;
+			children = (
+				791823AD255B5244008ADE62 /* DataProvider */,
+				7949A7E0252BF45100366D5E /* Restaurant.swift */,
+				791823CA255B7052008ADE62 /* ResponseGooglePlace.swift */,
+			);
+			path = Entities;
+			sourceTree = "<group>";
+		};
+		79D83370252AF12B00D19A0E = {
+			isa = PBXGroup;
+			children = (
+				79D8337B252AF12C00D19A0E /* CapacityApp */,
+				79D8337A252AF12C00D19A0E /* Products */,
+				4647296E261BF195359C47CB /* Pods */,
+				F2A24AC2B102CBFB90960820 /* Frameworks */,
+			);
+			sourceTree = "<group>";
+		};
+		79D8337A252AF12C00D19A0E /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				79D83379252AF12C00D19A0E /* CapacityApp.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		79D8337B252AF12C00D19A0E /* CapacityApp */ = {
+			isa = PBXGroup;
+			children = (
+				7949A7DF252BF3E800366D5E /* Entities */,
+				794206BB252BF1F60036051A /* Scenes */,
+				79D8337C252AF12C00D19A0E /* AppDelegate.swift */,
+				79D8337E252AF12C00D19A0E /* SceneDelegate.swift */,
+				79D83382252AF12C00D19A0E /* Main.storyboard */,
+				79D83388252AF13400D19A0E /* Assets.xcassets */,
+				79D8338A252AF13400D19A0E /* LaunchScreen.storyboard */,
+				79D8338D252AF13400D19A0E /* Info.plist */,
+				79D83385252AF12C00D19A0E /* CapacityApp.xcdatamodeld */,
+				79D833B1252B7F5F00D19A0E /* GoogleService-Info.plist */,
+			);
+			path = CapacityApp;
+			sourceTree = "<group>";
+		};
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> parent of cc00359... added new verification with buttons
+		F2A24AC2B102CBFB90960820 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+<<<<<<< HEAD
+=======
+>>>>>>> parent of f8794b2... added indicator, background image, deleted function to call address and rating
+=======
+>>>>>>> parent of f8794b2... added indicator, background image, deleted function to call address and rating
+=======
+>>>>>>> parent of cc00359... added new verification with buttons
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		79D83378252AF12B00D19A0E /* CapacityApp */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 79D83390252AF13400D19A0E /* Build configuration list for PBXNativeTarget "CapacityApp" */;
+			buildPhases = (
+				F2343EDB04BFEBC229F536DB /* [CP] Check Pods Manifest.lock */,
+				79D83375252AF12B00D19A0E /* Sources */,
+				79D83376252AF12B00D19A0E /* Frameworks */,
+				79D83377252AF12B00D19A0E /* Resources */,
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+				BBA3D0D5EF09F5AB6D91FE87 /* [CP] Embed Pods Frameworks */,
+=======
+>>>>>>> parent of f8794b2... added indicator, background image, deleted function to call address and rating
+=======
+>>>>>>> parent of f8794b2... added indicator, background image, deleted function to call address and rating
+=======
+				BBA3D0D5EF09F5AB6D91FE87 /* [CP] Embed Pods Frameworks */,
+>>>>>>> parent of cc00359... added new verification with buttons
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = CapacityApp;
+			productName = CapacityApp;
+			productReference = 79D83379252AF12C00D19A0E /* CapacityApp.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		79D83371252AF12B00D19A0E /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastSwiftUpdateCheck = 1200;
+				LastUpgradeCheck = 1200;
+				TargetAttributes = {
+					79D83378252AF12B00D19A0E = {
+						CreatedOnToolsVersion = 12.0.1;
+					};
+				};
+			};
+			buildConfigurationList = 79D83374252AF12B00D19A0E /* Build configuration list for PBXProject "CapacityApp" */;
+			compatibilityVersion = "Xcode 9.3";
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = 79D83370252AF12B00D19A0E;
+			productRefGroup = 79D8337A252AF12C00D19A0E /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				79D83378252AF12B00D19A0E /* CapacityApp */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		79D83377252AF12B00D19A0E /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				79D8338C252AF13400D19A0E /* LaunchScreen.storyboard in Resources */,
+				79D833B2252B7F5F00D19A0E /* GoogleService-Info.plist in Resources */,
+				79D83389252AF13400D19A0E /* Assets.xcassets in Resources */,
+				79D83384252AF12C00D19A0E /* Main.storyboard in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> parent of cc00359... added new verification with buttons
+/* Begin PBXShellScriptBuildPhase section */
+		BBA3D0D5EF09F5AB6D91FE87 /* [CP] Embed Pods Frameworks */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+				"${PODS_ROOT}/Target Support Files/Pods-CapacityApp/Pods-CapacityApp-frameworks-${CONFIGURATION}-input-files.xcfilelist",
+			);
+			name = "[CP] Embed Pods Frameworks";
+			outputFileListPaths = (
+				"${PODS_ROOT}/Target Support Files/Pods-CapacityApp/Pods-CapacityApp-frameworks-${CONFIGURATION}-output-files.xcfilelist",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-CapacityApp/Pods-CapacityApp-frameworks.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+		F2343EDB04BFEBC229F536DB /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+			);
+			inputPaths = (
+				"${PODS_PODFILE_DIR_PATH}/Podfile.lock",
+				"${PODS_ROOT}/Manifest.lock",
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputFileListPaths = (
+			);
+			outputPaths = (
+				"$(DERIVED_FILE_DIR)/Pods-CapacityApp-checkManifestLockResult.txt",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
+			showEnvVarsInLog = 0;
+		};
+/* End PBXShellScriptBuildPhase section */
+
+<<<<<<< HEAD
+=======
+>>>>>>> parent of f8794b2... added indicator, background image, deleted function to call address and rating
+=======
+>>>>>>> parent of f8794b2... added indicator, background image, deleted function to call address and rating
+=======
+>>>>>>> parent of cc00359... added new verification with buttons
+/* Begin PBXSourcesBuildPhase section */
+		79D83375252AF12B00D19A0E /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				7949A7E1252BF45100366D5E /* Restaurant.swift in Sources */,
+				791823D1255B71DB008ADE62 /* GoogleClientRequest.swift in Sources */,
+				79D833CF252B8E7A00D19A0E /* CreateAccountViewController.swift in Sources */,
+				79D83395252B084500D19A0E /* CreateAccountModel.swift in Sources */,
+				79D83381252AF12C00D19A0E /* SignInViewController.swift in Sources */,
+				791822A9255064B9008ADE62 /* MapViewController.swift in Sources */,
+				79D8337D252AF12C00D19A0E /* AppDelegate.swift in Sources */,
+				79D8337F252AF12C00D19A0E /* SceneDelegate.swift in Sources */,
+				791823722551E716008ADE62 /* DetailViewController.swift in Sources */,
+				791823CB255B7053008ADE62 /* ResponseGooglePlace.swift in Sources */,
+				79D833F3252BAE8E00D19A0E /* SignInModel.swift in Sources */,
+				79D83387252AF12C00D19A0E /* CapacityApp.xcdatamodeld in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXVariantGroup section */
+		79D83382252AF12C00D19A0E /* Main.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				79D83383252AF12C00D19A0E /* Base */,
+			);
+			name = Main.storyboard;
+			sourceTree = "<group>";
+		};
+		79D8338A252AF13400D19A0E /* LaunchScreen.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				79D8338B252AF13400D19A0E /* Base */,
+			);
+			name = LaunchScreen.storyboard;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		79D8338E252AF13400D19A0E /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 14.0;
+				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
+				MTL_FAST_MATH = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = DEBUG;
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+			};
+			name = Debug;
+		};
+		79D8338F252AF13400D19A0E /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 14.0;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				MTL_FAST_MATH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_COMPILATION_MODE = wholemodule;
+				SWIFT_OPTIMIZATION_LEVEL = "-O";
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		79D83391252AF13400D19A0E /* Debug */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 3FE93702E89211930DB1E636 /* Pods-CapacityApp.debug.xcconfig */;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = M5C2S69Y94;
+				INFOPLIST_FILE = CapacityApp/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = com.communityapp.Capacityapp;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		79D83392252AF13400D19A0E /* Release */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 1DC44F561ECAE35F54EE856B /* Pods-CapacityApp.release.xcconfig */;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = M5C2S69Y94;
+				INFOPLIST_FILE = CapacityApp/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = com.communityapp.Capacityapp;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		79D83374252AF12B00D19A0E /* Build configuration list for PBXProject "CapacityApp" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				79D8338E252AF13400D19A0E /* Debug */,
+				79D8338F252AF13400D19A0E /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		79D83390252AF13400D19A0E /* Build configuration list for PBXNativeTarget "CapacityApp" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				79D83391252AF13400D19A0E /* Debug */,
+				79D83392252AF13400D19A0E /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+
+/* Begin XCVersionGroup section */
+		79D83385252AF12C00D19A0E /* CapacityApp.xcdatamodeld */ = {
+			isa = XCVersionGroup;
+			children = (
+				79D83386252AF12C00D19A0E /* CapacityApp.xcdatamodel */,
+			);
+			currentVersion = 79D83386252AF12C00D19A0E /* CapacityApp.xcdatamodel */;
+			path = CapacityApp.xcdatamodeld;
+			sourceTree = "<group>";
+			versionGroupType = wrapper.xcdatamodel;
+		};
+/* End XCVersionGroup section */
+	};
+	rootObject = 79D83371252AF12B00D19A0E /* Project object */;
+}
